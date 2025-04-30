@@ -15,7 +15,7 @@ This site includes the following sections:
 
 ## Live Preview
 
-[View Website on GitHub Pages](https://your-github-username.github.io/sneakyeditz/)
+[View Website on GitHub Pages]( https://sneakyeditz.github.io/Sneakyeditz/)
 
 ## Features
 
@@ -37,7 +37,7 @@ This site includes the following sections:
 ## Contact
 
 - **Email**: mortalsneaky@gmail.com  
-- **YouTube**: [SneakyEditz Channel](https://youtube.com/@mortalsneakymn2798)  
+- **YouTube**: [MortalSneakyEditz Channel](https://youtube.com/@mortalsneakymn2798)  
 - **Phone** (for Tamilan Offer): 9994228031  
 
 ---
